@@ -1,0 +1,30 @@
+body{
+    background-image:url('show/seen.jpg');
+    font-size:15px;
+
+}
+table,td,tr,th{
+  border:solid gold 2px;  
+}
+h3{
+    color:black;
+}
+h4{
+    color:gold;
+}
+.dau{
+    border:solid 3px red;
+    margin-right: 1000px;
+    font-size:30px;
+}
+ol{
+    font-size:20px;
+    color:white;
+}
+ul{
+    color:white;
+    font-size:20px;
+}
+.melanin{
+    text-align:center;
+}
